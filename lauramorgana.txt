@@ -1,1 +1,3 @@
 Olá esse é o trabalho desenvolvido por Laura e Morgana.
+Projeto desenvolvido na disciplina de Gerência da Config. de Software.
+Controle de versão com Git.
